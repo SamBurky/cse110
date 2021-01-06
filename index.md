@@ -2,6 +2,8 @@ Samuel Burkholder's User Page
 
 # CSE 110 GitHub Practice Page
 
+Section Link to the end: [Here](https://github.com/SamBurky/cse110/blob/gh-pages/index.md#what-did-you-think-of-my-youtube-channel)
+
 My name is Samuel Burkholder and this is my github practice page for CSE 110. I look forward to learning a lot this quarter, but here's some about me.
 I grew up running and playing soccer. I play chess and do rubik's cubes as well.
 
