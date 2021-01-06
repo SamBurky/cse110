@@ -25,3 +25,23 @@ I use `ls` at least 3 times as often as I use any other terminal command!
 Heres a [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO) to my youtube channel.
 
 ## What did you think of my youtube channel?
+
+To Do List for the Quarter:
+- Get an A in this class
+- Make a million dollars
+- Own a yellow lamborghini
+
+Steps to make it happen: 
+1. Come up with new idea in tech
+2. Money printer go brrrrrr
+3. Profit
+   - Why are you still reading? I'm rich
+    - Seriously whats up?
+     - Im already rich
+    
+- [] One on One meeting with the professor
+- [x] One on One meeting with the president
+- [x] One on One meeting with Vladimir Putin, the surpreme ruler of Russia
+
+### The Yellow Lamborghini given to me by Vladimir Putin
+
