@@ -36,10 +36,10 @@ Steps to make it happen:
 2. Money printer go brrrrrr
 3. Profit
    - Why are you still reading? I'm rich
-    - Seriously whats up?
-     - Im already rich
+     - Seriously whats up?
+       - Im already rich
     
-- [] One on One meeting with the professor
+- [ ] One on One meeting with the professor
 - [x] One on One meeting with the president
 - [x] One on One meeting with Vladimir Putin, the surpreme ruler of Russia
 
