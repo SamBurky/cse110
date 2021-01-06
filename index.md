@@ -1,6 +1,6 @@
 Samuel Burkholder's User Page
 
-#CSE 110 GitHub Practice Page
+# CSE 110 GitHub Practice Page
 
 My name is Samuel Burkholder and this is my github practice page for CSE 110. I look forward to learning a lot this quarter, but here's some about me.
 I grew up running and playing soccer. I play chess and do rubik's cubes as well.
@@ -22,4 +22,4 @@ I use `ls` at least 3 times as often as I use any other terminal command!
 
 Heres a [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO) to my youtube channel.
 
-##What did you think of my youtube channel?
+## What did you think of my youtube channel?
